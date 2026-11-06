@@ -1,4 +1,4 @@
-name: Build APK
+name: طالب مسلم 
 on:
   workflow_dispatch:
   push:
